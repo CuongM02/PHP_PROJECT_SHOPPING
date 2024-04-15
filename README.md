@@ -12,5 +12,8 @@
 
 -- USERNAME: your email (mail send) (Vietnamese: Email này là mail gửi)
 -- PASSWORD: Your email's application password (Vietnamese: mật khẩu ứng dụng)
-
+# Người thực hiện
+## Nguyễn Mạnh CƯờng
+## Ngô Minh Quang
+## Hà Lâm Hùng
 <!--  -->
